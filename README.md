@@ -225,7 +225,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - LinkedIn : https://www.linkedin.com/in/achraf-allali-9889a0321/
 - Email : achrafallali2003@gmail.com
 
-## 🙏 Remerciements
+## ❤️ Remerciements
 
 - Communauté SWI-Prolog
 - Contributeurs du projet
