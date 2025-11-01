@@ -184,7 +184,10 @@ covid :-
 ## 📸 Captures d'écran
 
 <img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/6cd9a2ad-ffca-412b-b445-a860ecd82fee" />
+
 <img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/af744447-ba34-4398-841b-0d4303c6cdc4" />
+
+<img width="1195" height="673" alt="image" src="https://github.com/user-attachments/assets/1b6630b8-1724-4a36-8847-94c479c5203c" />
 
 <img width="1187" height="616" alt="image" src="https://github.com/user-attachments/assets/49a0a679-7c18-45f4-b53e-92ffb396f01d" />
 
