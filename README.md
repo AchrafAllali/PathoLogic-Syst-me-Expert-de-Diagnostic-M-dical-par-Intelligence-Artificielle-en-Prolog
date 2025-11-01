@@ -183,12 +183,13 @@ covid :-
 
 ## 📸 Captures d'écran
 
-*(Ajoutez vos captures d'écran ici)*
+<img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/6cd9a2ad-ffca-412b-b445-a860ecd82fee" />
+<img width="1192" height="673" alt="image" src="https://github.com/user-attachments/assets/af744447-ba34-4398-841b-0d4303c6cdc4" />
 
-1. Écran d'accueil
-2. Interface de diagnostic
-3. Questions interactives
-4. Résultat et conseils
+<img width="1187" height="616" alt="image" src="https://github.com/user-attachments/assets/49a0a679-7c18-45f4-b53e-92ffb396f01d" />
+
+
+
 
 ## 🤝 Contribuer
 
